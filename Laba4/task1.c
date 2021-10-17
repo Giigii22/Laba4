@@ -1,7 +1,6 @@
 ﻿#include <stdio.h>
 #define _USE_MATH_DEFINES
 #include <math.h> 
-#include <conio.h> 
 #include <stdlib.h>
 void f(const double* x, double* result)
 {
